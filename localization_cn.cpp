@@ -88,6 +88,7 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         {"Faro Lady", "法罗女士"},
         {"Knight", "骑士"},
         {“Meteorologist”, “气象学家”},
+        {“Archer”, “弓箭手”},
 
         {"Hell Ember", "厂长"},
         {"Smiley Face", "小丑"},
@@ -127,6 +128,7 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         {"The Yithian", "伊斯人"},
         {"Goatman", "跛脚羊"},
         {"Hullabaloo", "喧嚣"},
+        {“Peddler”, “杂货商”}
         
         { "Syringe", "镇静剂" },
         { "Map", "手绘地图" },
@@ -200,6 +202,10 @@ inline std::unordered_map<std::string, std::string> getChineseTranslations() {
         { "Magnetic Rock", "磁场引石" },
         { "Corrupted Ostracon", "侵蚀陶片" },
         { "Cage of Lost Lambs", "迷失之笼" },
+
+        {"Orpheus", "奥尔菲斯"}
+        {"Alice", "爱丽丝"}
+        {"Synesthetic Witness", "联觉观测者"}
 
         // features
         { "Fire attack triggered on ", "鬼火攻击已触发于 " },
